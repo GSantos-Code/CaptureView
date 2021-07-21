@@ -13,7 +13,7 @@
 <h1>Instruções de uso:</h1>
 
 - Passo 1: Abrir o Setup Virtual do Paciente.
-- Passo 2: Executar a Ferramenta, melhor seria criar um tecla de atalho para a mesma.
+- Passo 2: Executar a Ferramenta, melhor seria criar uma tecla de atalho para a mesma.
 - Passo 3: O CaptureView irá tirar as fotos conforme o usuário irá ajustando o modelo.(Siga as instruções das caixas de diálogo)
 - Passo 4: Nas fotos oclusais superiores e inferiores ajuste você poderá marcar a sobreposição e o IPR.
 

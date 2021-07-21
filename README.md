@@ -9,7 +9,7 @@
 - Monitor 1360x768
 - OrthoAnalyzer
 - Python 3.9 ou Superior instalado no PC.
-- PIP do Python fazer um GET na Lib PyAutoGUI.
+- Lib PyAutoGUI.
 
 <h1>Instruções de uso:</h1>
 

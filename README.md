@@ -33,6 +33,6 @@
 <h1>Novidades v1.1</h1>
 
 - Agora a ferramenta captura o estagiamento e tabela de movimentação também
-- Performace da captura das fotos laterais e anteriores, posteriores melhorada.
+- Performance da captura das fotos laterais e anteriores, posteriores melhorada.
 
 Obs: Para tirar a foto do estagiamento, é preciso que deixe a caixinha alinhada com o canto superior esquerdo da tela principal, a tabela de movimentação também(esta deve estar minimizada).
